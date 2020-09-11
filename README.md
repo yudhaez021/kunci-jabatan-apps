@@ -1,0 +1,1 @@
+Aplikasi Kunci Jabatan adalah aplikasi absensi jabatan menggunakan E-KTP. Aplikasi ini dibuat dengan CodeIgniter & RFID.
